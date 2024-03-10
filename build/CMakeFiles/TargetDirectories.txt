@@ -1,0 +1,3 @@
+/home/sally/桌面/code/build/CMakeFiles/app.dir
+/home/sally/桌面/code/build/CMakeFiles/edit_cache.dir
+/home/sally/桌面/code/build/CMakeFiles/rebuild_cache.dir
